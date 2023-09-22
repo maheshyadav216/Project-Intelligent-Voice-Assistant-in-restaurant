@@ -5,6 +5,15 @@ Voice Assistant Waiter/Server - Intelligent food ordering system for Restaurant 
   
 
 Gravity: offline speech recognition sensor is built around an offline voice recognition chip, which can be directly used without an internet connection. It comes with 121 built-in fixed command words and supports the addition of 17 custom command words. Meanwhile, this voice recognition module compatibility with multiple common controllers enables it to provide a flexible solution for makers and electronics enthusiasts in terms of voice interaction. It can be applied to any application that requires voice control or interaction, such as various smart home appliances, toys, lighting fixtures, and robotics projects, among others.   
+  
+- We are going to use this sesnor to build a project - Voice Assistant Waiter/Server - Intelligent food ordering system for Restaurant or   Hotel. Voice ordering for restaurants is a technology that allows consumers to place an order at food establishments using their voice and a smartphone, tablet, or other device.  
+  
+- Existing Systems - A growing number of restaurant chains are deploying AI ordering systems to streamline phone orders and digitize their off-premise business. There are several AI-Based Voice Ordering Systems for Restaurants. Like - Kea, ConverseNow, VOICEplug AI, Voix, SoundHound, Presto Automation and many more. These are all off-premise solutions. Most of them work with smartphones. Here, We are going to make project for at edge, on-premises solution. Voice command food ordering system on every table of restaurant.  
+  
+- Problem Statement - Restaurants are one of the favorite premises and usually crowdy places. There are many reasons leading to the feeling of dissatisfaction including being entertained late in terms of order taking by the waiter and meals serving. The problem of late service in restaurants increases during busy season.  
+  Whenever you go to eat in a restaurant during such busy time and when you order some food along with main course or starter and start eating your main course food, then, after some time if you want to add something extra to the food order. then you may have to wait for the waiter to come to your table and take further instructions for the new food.
+- Proposed Solution - This problem can be solved by virtual voice assistant waiter. Who takes food order by voice commands. You can call out his/her name, he will ask 'what food item you want', you can give voice order 'by just naming whichever food item you want from menu card'. This digital waiter then notify the Manager and Chef about your orders and additions.  
+
 
 
 #### 🛠 Hardware  
