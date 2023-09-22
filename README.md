@@ -1,7 +1,7 @@
 # Project-Intelligent-Voice-Assistant-in-restaurant
 Voice Assistant Waiter/Server - Intelligent food ordering system for Restaurant or Hotel
   
-<img src="/Images/hackster-thumb2.png" height="250" >
+<img src="/Images/hackster-thumb-2.png" height="250" >
   
 
 Gravity: offline speech recognition sensor is built around an offline voice recognition chip, which can be directly used without an internet connection. It comes with 121 built-in fixed command words and supports the addition of 17 custom command words. Meanwhile, this voice recognition module compatibility with multiple common controllers enables it to provide a flexible solution for makers and electronics enthusiasts in terms of voice interaction. It can be applied to any application that requires voice control or interaction, such as various smart home appliances, toys, lighting fixtures, and robotics projects, among others.   
