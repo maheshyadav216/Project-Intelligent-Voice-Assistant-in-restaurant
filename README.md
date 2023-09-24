@@ -36,13 +36,14 @@ Gravity: offline speech recognition sensor is built around an offline voice reco
 </br>
 
 #### 📜 Hackster Project  
-🔗 https://github.com/maheshyadav216/Project-Intelligent-Voice-Assistant-in-restaurant#project-intelligent-voice-assistant-in-restaurant  
+
+🔗 https://www.hackster.io/maheshyadav216/smart-waiter-intelligent-voice-assistant-in-restaurant-1ad872  
 
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Link**  
 
-▶️ Getting started with DFRobot Offline Voice Recognition Sensor - 🔗 https://www.youtube.com/ 
+▶️ Getting started with DFRobot Offline Voice Recognition Sensor - 🔗 https://youtu.be/wgK8r0WjpIs  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
